@@ -1,9 +1,3 @@
-<div align="center">
-
-<h1>Black Boat Games</h1>
-
-</div>
-
 Hey there! Welcome to Black Boat Games! We're an independent game development studio creating original PC games, combining technology, game design and creativity to build memorable gaming experiences.
 
 The studio was co-founded by [Dmitry Kardashevsky](https://github.com/kardashevsky) and a team of passionate creators.
